@@ -1,6 +1,6 @@
 # Anonymous Chat Bot
 
-A Simple Telegram Bot To Chat Other in telegram by A bot   
+A Simple Telegram Bot To Chat Other in telegram by  A bot   
 
 # Features
 - Fully Remaked To English
